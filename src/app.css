@@ -1,3 +1,14 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+strong {
+	@apply font-medium;
+}
+
+a {
+	@apply underline font-medium hover:text-transparent hover:bg-clip-text hover:bg-gradient-to-tr hover:from-orange-400 hover:to-blue-500;
+}
+p {
+	@apply font-light;
+}
