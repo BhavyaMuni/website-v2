@@ -9,14 +9,20 @@
 		<p class="">I’m Bhavya, welcome to my world!</p>
 		<p>
 			When I’m bored, I learn new tech. I started off making games and surprisingly won the first
-			ever game jam that I participated in (<a href="">it was lit</a>). After creating more games
-			for a couple of years I discovered Flutter. Launched <a href="">an app </a> with some friends
-			for connecting musicians which got <em> more than a thousand downloads</em> on the play store.
+			ever game jam that I participated in (<a href="https://sketchu.itch.io/lit">it was lit</a>).
+			After creating more games for a couple of years I discovered Flutter. Launched
+			<a href="https://play.google.com/store/apps/details?id=com.amethyst.amethyst_app">an app </a>
+			with some friends for connecting musicians which got <em> more than a thousand downloads</em> on
+			the play store.
 		</p>
 		<p>
 			More recently, I have been exploring machine learning. Plopped a bunch of dinos in the Chrome
-			Dinosaur Game to learn to play <a href="">the game</a> themselves. Currently working on
-			<a href="">a project</a> to create fake songs based on styles of top artists.
+			Dinosaur Game to learn to play <a
+				href="https://github.com/BhavyaMuni/ChromeDinoNeuroevolution">the game</a
+			>
+			themselves. Currently working on
+			<a href="https://huggingface.co/BhavyaMuni">a project</a> to create fake songs based on styles
+			of top artists.
 		</p>
 		<p>
 			Apart from tech I am also into other nerdy stuff like aerospace, currently working on a design
