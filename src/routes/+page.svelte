@@ -1,5 +1,5 @@
 <div class="flex flex-col h-screen justify-end">
-	<div class="flex flex-col w-1/3 my-auto justify-center mx-auto leading-relaxed space-y-3">
+	<div class="flex flex-col lg:w-1/3 sm:w-2/3 justify-center m-auto leading-relaxed space-y-3">
 		<h1 class="font-semibold text-2xl">Hey, there 👋🏼</h1>
 		<p />
 
