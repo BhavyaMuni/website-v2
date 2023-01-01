@@ -24,11 +24,30 @@
 			<a href="https://huggingface.co/BhavyaMuni">a project</a> to create fake songs based on styles
 			of top artists.
 		</p>
+		<p class="opacity-50">
+			<a href="/projects" class="font-light no-underline hover:underline hover:font-light"
+				>Projects 👾</a
+			>
+		</p>
 		<p>
 			Apart from tech I am also into other nerdy stuff like aerospace, currently working on a design
 			team to build <a href="/">a rocket engine</a> (no, we haven't blown up anything as of yet).
 			But above all comes my love for COFFEE (yes, I have <a href="/">a coffee journal</a> too).
 		</p>
+		<p>
+			Found anything interesting? Shoot me an email <em
+				><a href="mailto:bhavay.muni@torontomu.ca">bhavya.muni@torontomu.ca</a>
+			</em>
+		</p>
+		<p />
+		<p />
+		<div class="flex flex-row justify-evenly fa-xl links">
+			<a href="https://linkedin.com/in/bhavya-muni/"> <i class="fa-brands fa-linkedin" /></a>
+			<a href="https://github.com/BhavyaMuni/"> <i class="fa-brands fa-github " /></a>
+			<a href="https://itch.io/profile/bhavyamuni"> <i class="fa-brands fa-itch-io" /></a>
+			<a href="https://www.youtube.com/watch?v=9M5DYjUQpVw"><i class="fa-brands fa-youtube" /></a>
+			<a href="https://www.behance.net/BhavyaMuni"><i class="fa-brands fa-behance" /></a>
+		</div>
 	</div>
 
 	<div class="h-2 bg-gradient-to-r from-orange-400 to-blue-500 w-screen" />

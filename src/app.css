@@ -7,8 +7,14 @@ strong {
 }
 
 a {
-	@apply underline font-medium hover:text-transparent hover:bg-clip-text hover:bg-gradient-to-tr hover:from-orange-400 hover:to-blue-500;
+	@apply underline font-medium underline-offset-2;
+	/* @apply hover:text-transparent hover:bg-clip-text hover:bg-gradient-to-tr hover:from-orange-400 hover:to-blue-500; */
 }
 p {
 	@apply font-light;
+}
+
+.links i {
+	@apply opacity-40;
+	@apply hover:text-transparent hover:bg-clip-text hover:bg-gradient-to-tr hover:from-orange-400 hover:to-blue-500 hover:opacity-100;
 }
