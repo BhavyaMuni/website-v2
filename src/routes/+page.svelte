@@ -24,10 +24,8 @@
 			<a href="https://huggingface.co/BhavyaMuni">a project</a> to create fake songs based on styles
 			of top artists.
 		</p>
-		<p class="opacity-50">
-			<a href="/projects" class="font-light no-underline hover:underline hover:font-light"
-				>Projects 👾</a
-			>
+		<p class="">
+			<a href="/projects" class="font-semibold no-underline hover:underline">Projects 👾 -&gt</a>
 		</p>
 		<p>
 			Apart from tech I am also into other nerdy stuff like aerospace, currently working on a design
@@ -42,11 +40,21 @@
 		<p />
 		<p />
 		<div class="flex flex-row justify-evenly fa-xl links">
-			<a href="https://linkedin.com/in/bhavya-muni/"> <i class="fa-brands fa-linkedin" /></a>
-			<a href="https://github.com/BhavyaMuni/"> <i class="fa-brands fa-github " /></a>
-			<a href="https://itch.io/profile/bhavyamuni"> <i class="fa-brands fa-itch-io" /></a>
-			<a href="https://www.youtube.com/watch?v=9M5DYjUQpVw"><i class="fa-brands fa-youtube" /></a>
-			<a href="https://www.behance.net/BhavyaMuni"><i class="fa-brands fa-behance" /></a>
+			<a href="https://linkedin.com/in/bhavya-muni/" aria-label="LinkedIn">
+				<i class="fa-brands fa-linkedin" /></a
+			>
+			<a href="https://github.com/BhavyaMuni/" aria-label="GitHub">
+				<i class="fa-brands fa-github " /></a
+			>
+			<a href="https://itch.io/profile/bhavyamuni" aria-label="itch.io">
+				<i class="fa-brands fa-itch-io" /></a
+			>
+			<a href="https://www.youtube.com/watch?v=9M5DYjUQpVw" aria-label="TED Talk"
+				><i class="fa-brands fa-youtube" /></a
+			>
+			<a href="https://www.behance.net/BhavyaMuni" aria-label="Behance"
+				><i class="fa-brands fa-behance" /></a
+			>
 		</div>
 	</div>
 
