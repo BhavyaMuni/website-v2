@@ -14,6 +14,20 @@
 			<li>Reinos</li>
 			<li>Lit</li>
 		</ul>
+		<h3>Game Dev</h3>
+		<ul class="list-disc list-inside indent-4">
+			<li>Lit</li>
+			<li>Bass Racer</li>
+			<li>Reinos</li>
+			<li>Lit</li>
+		</ul>
+		<h3>Game Dev</h3>
+		<ul class="list-disc list-inside indent-4">
+			<li>Lit</li>
+			<li>Bass Racer</li>
+			<li>Reinos</li>
+			<li>Lit</li>
+		</ul>
 	</div>
 
 	<div class="h-2 bg-gradient-to-r from-orange-400 to-blue-500 w-screen" />

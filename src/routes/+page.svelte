@@ -25,7 +25,7 @@
 			of top artists.
 		</p>
 		<p class="">
-			<a href="/projects" class="font-semibold no-underline hover:underline">Projects 👾 -&gt</a>
+			<a href="/projects" class="font-semibold no-underline hover:underline">👾 Projects -&gt</a>
 		</p>
 		<p>
 			Apart from tech I am also into other nerdy stuff like aerospace, currently working on a design
