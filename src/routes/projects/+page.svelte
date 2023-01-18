@@ -20,7 +20,7 @@
 		<ul class="list-disc list-inside">
 			<li>
 				<a href="https://github.com/BhavyaMuni/ChromeDinoNeuroevolution">
-					Chrome Dino Game (Neuro-evolution)</a
+					Chrome Dino (Neuro-evolution)</a
 				>
 				<span class="font-light italic text-gray-600 text-sm whitespace-nowrap">
 					(a bunch of dinos trying to play by themselves)
@@ -41,10 +41,24 @@
 		</ul>
 		<h3 class="font-semibold">Misc.</h3>
 		<ul class="list-disc list-inside">
-			<li>Schedule To Calendar</li>
-			<li>Amethyst</li>
-			<li>TED Talk</li>
-			<li>Lit</li>
+			<li>
+				<a href="https://github.com/BhavyaMuni/coffee-price-app">Schedule To Calendar</a>
+				<span class="font-light italic text-gray-600 text-sm whitespace-nowrap">
+					(a little automation to get my schedules in gcal)</span
+				>
+			</li>
+			<li>
+				<a href="https://github.com/BhavyaMuni/coffee-price-app">Amethyst</a>
+				<span class="font-light italic text-gray-600 text-sm whitespace-nowrap">
+					(mobile app to conect musicians)</span
+				>
+			</li>
+			<li>
+				<a href="https://www.youtube.com/watch?v=9M5DYjUQpVw">TED Talk</a>
+				<span class="font-light italic text-gray-600 text-sm whitespace-nowrap">
+					(a little cringe but i'm proud)</span
+				>
+			</li>
 		</ul>
 		<p />
 		<p />

@@ -30,11 +30,12 @@
 		<p>
 			Apart from tech I am also into other nerdy stuff like aerospace, currently working on a design
 			team to build <a href="/">a rocket engine</a> (no, we haven't blown up anything as of yet).
-			But above all comes my love for COFFEE (yes, I have <a href="/">a coffee journal</a> too).
+			<!-- But above all comes my love for COFFEE (yes, I have <a href="/">a coffee journal</a> too). -->
 		</p>
 		<p>
 			Found anything interesting? Shoot me an email <em
 				><a href="mailto:bhavay.muni@torontomu.ca">bhavya.muni@torontomu.ca</a>
+				or reach out to me through any platform.
 			</em>
 		</p>
 		<p />
@@ -57,6 +58,9 @@
 			>
 		</div>
 	</div>
-
-	<div class="h-2 bg-gradient-to-r from-orange-400 to-blue-500 w-screen" />
+	<div class="flex flex-col items-center">
+		<p class="opacity-40 text-xs">made with lots of ☕️</p>
+		<div class="h-2" />
+		<div class="h-2 bg-gradient-to-r from-orange-400 to-blue-500 w-screen" />
+	</div>
 </div>
