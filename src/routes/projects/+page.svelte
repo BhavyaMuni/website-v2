@@ -27,7 +27,7 @@
 				</span>
 			</li>
 			<li>
-				<a href="">Song Lyrics Generator</a>
+				<a href="https://huggingface.co/BhavyaMuni">Song Lyrics Generator</a>
 				<span class="font-light italic text-gray-600 text-sm whitespace-nowrap">
 					(generates Taylor Swift lyrics, switching over to GPT-2)
 				</span>
