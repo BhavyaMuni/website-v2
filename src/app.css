@@ -17,11 +17,3 @@ a {
 p {
 	@apply font-light;
 }
-
-.links i {
-	@apply opacity-40;
-	@apply hover:text-transparent hover:bg-clip-text hover:bg-gradient-to-tr hover:from-orange-400 hover:to-blue-500 hover:opacity-100;
-}
-div a i {
-	@apply text-2xl;
-}
