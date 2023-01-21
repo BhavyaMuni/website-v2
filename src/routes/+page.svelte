@@ -1,5 +1,7 @@
 <div class="flex flex-col h-screen justify-end">
-	<div class="flex flex-col lg:w-1/3 sm:w-2/3 justify-center m-auto leading-relaxed space-y-3">
+	<div
+		class="flex flex-col lg:w-1/3 sm:w-2/3 xs:w-2/3 justify-center m-auto leading-relaxed space-y-3"
+	>
 		<div class="flex flex-row justify-between items-center">
 			<h1 class="font-semibold text-3xl">Hey, there 👋🏼</h1>
 			<!-- <img src="bitmoji.png" class="w-1/5 h-auto" alt="bitmoji" /> -->
@@ -30,7 +32,7 @@
 		<p>
 			Apart from tech I am also into other nerdy stuff like aerospace, currently working on a design
 			team to build <a href="/">a rocket engine</a> (no, we haven't blown up anything as of yet).
-			<!-- But above all comes my love for COFFEE (yes, I have <a href="/">a coffee journal</a> too). -->
+			<!-- But above all comes my love for COFvercelFEE (yes, I have <a href="/">a coffee journal</a> too). -->
 		</p>
 		<p>
 			Found anything interesting? Shoot me an email <em
