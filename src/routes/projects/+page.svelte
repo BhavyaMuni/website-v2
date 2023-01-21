@@ -42,13 +42,15 @@
 		<h3 class="font-semibold">Misc.</h3>
 		<ul class="list-disc list-inside">
 			<li>
-				<a href="https://github.com/BhavyaMuni/coffee-price-app">Schedule To Calendar</a>
+				<a href="https://github.com/BhavyaMuni/schedule-to-cal">Schedule To Calendar</a>
 				<span class="font-light italic text-gray-600 text-sm whitespace-nowrap">
 					(a little automation to get my schedules in gcal)</span
 				>
 			</li>
 			<li>
-				<a href="https://github.com/BhavyaMuni/coffee-price-app">Amethyst</a>
+				<a href="https://play.google.com/store/apps/details?id=com.amethyst.amethyst_app"
+					>Amethyst</a
+				>
 				<span class="font-light italic text-gray-600 text-sm whitespace-nowrap">
 					(mobile app to conect musicians)</span
 				>
