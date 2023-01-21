@@ -44,19 +44,19 @@
 		<p />
 		<div class="flex flex-row justify-evenly fa-xl links">
 			<a href="https://linkedin.com/in/bhavya-muni/" aria-label="LinkedIn">
-				<i class="fa-brands fa-linkedin" /></a
+				<i class="fab fa-brands fa-linkedin" /></a
 			>
 			<a href="https://github.com/BhavyaMuni/" aria-label="GitHub">
-				<i class="fa-brands fa-github " /></a
+				<i class="fab fa-brands fa-github " /></a
 			>
 			<a href="https://itch.io/profile/bhavyamuni" aria-label="itch.io">
-				<i class="fa-brands fa-itch-io" /></a
+				<i class="fab fa-brands fa-itch-io" /></a
 			>
 			<a href="https://www.youtube.com/watch?v=9M5DYjUQpVw" aria-label="TED Talk"
-				><i class="fa-brands fa-youtube" /></a
+				><i class="fab fa-brands fa-youtube" /></a
 			>
 			<a href="https://www.behance.net/BhavyaMuni" aria-label="Behance"
-				><i class="fa-brands fa-behance" /></a
+				><i class="fab fa-behance" /></a
 			>
 		</div>
 	</div>
