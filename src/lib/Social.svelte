@@ -1,4 +1,4 @@
-<div class="flex flex-row justify-evenly text-2xl">
+<div class="flex flex-row justify-evenly text-2xl lg:w-1/3 sm:w-2/3 xs:w-4/5">
 	<a href="https://linkedin.com/in/bhavya-muni/" aria-label="LinkedIn">
 		<i class="fab fa-brands fa-linkedin" /></a
 	>
