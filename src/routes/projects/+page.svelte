@@ -3,8 +3,12 @@
 	import Social from '$lib/Social.svelte';
 </script>
 
+<svelte:head>
+	<meta name="description" content="A list of all the projects that Bhavya Muni was a part of." />
+</svelte:head>
+
 <div class="flex flex-row justify-start items-center">
-	<a href="/"><i class="fas fa-chevron-left fa-xl" /></a>
+	<a href="/"><i class="fas fa-chevron-left" /></a>
 	<div class="w-2" />
 	<h1 class="font-semibold text-3xl">Projects 👾</h1>
 	<!-- <img src="bitmoji.png" class="w-1/5 h-auto" alt="bitmoji" /> -->
@@ -23,42 +27,42 @@
 		<a href="https://github.com/BhavyaMuni/ChromeDinoNeuroevolution">
 			Chrome Dino (Neuro-evolution)</a
 		>
-		<span class="font-light italic text-gray-600 text-sm whitespace-nowrap">
+		<p class="font-light italic text-gray-600 text-sm whitespace-nowrap">
 			(a bunch of dinos trying to play by themselves)
-		</span>
+		</p>
 	</li>
 	<li>
 		<a href="https://huggingface.co/BhavyaMuni">Song Lyrics Generator</a>
-		<span class="font-light italic text-gray-600 text-sm whitespace-nowrap">
-			(generates Taylor Swift lyrics, switching over to GPT-2)
-		</span>
+		<p class="font-light italic text-gray-600 text-sm whitespace-nowrap">
+			(generates Taylor Swift lyrics)
+		</p>
 	</li>
 	<li>
 		<a href="https://github.com/BhavyaMuni/coffee-price-app">Coffee Price Predictor</a>
-		<span class="font-light italic text-gray-600 text-sm whitespace-nowrap">
-			(learned how to deploy full-stack ML apps)</span
-		>
+		<p class="font-light italic text-gray-600 text-sm whitespace-nowrap">
+			(learned how to deploy full-stack ML apps)
+		</p>
 	</li>
 </ul>
 <h3 class="font-semibold">Misc.</h3>
 <ul class="list-disc list-inside">
 	<li>
 		<a href="https://github.com/BhavyaMuni/schedule-to-cal">Schedule To Calendar</a>
-		<span class="font-light italic text-gray-600 text-sm whitespace-nowrap">
-			(a little automation to get my schedules in gcal)</span
-		>
+		<p class="font-light italic text-gray-600 text-sm whitespace-nowrap">
+			(a little automation to get my schedules in gcal)
+		</p>
 	</li>
 	<li>
 		<a href="https://play.google.com/store/apps/details?id=com.amethyst.amethyst_app">Amethyst</a>
-		<span class="font-light italic text-gray-600 text-sm whitespace-nowrap">
-			(mobile app to conect musicians)</span
-		>
+		<p class="font-light italic text-gray-600 text-sm whitespace-nowrap">
+			(mobile app to connect musicians)
+		</p>
 	</li>
 	<li>
 		<a href="https://www.youtube.com/watch?v=9M5DYjUQpVw">TED Talk</a>
-		<span class="font-light italic text-gray-600 text-sm whitespace-nowrap">
-			(a little cringe but i'm proud)</span
-		>
+		<p class="font-light italic text-gray-600 text-sm whitespace-nowrap">
+			(a little cringe but i'm proud)
+		</p>
 	</li>
 </ul>
 <p />

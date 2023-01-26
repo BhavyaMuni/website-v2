@@ -13,7 +13,7 @@
 
 <div class="flex flex-col h-screen justify-between">
 	<div
-		class="flex flex-col lg:w-1/3 sm:w-2/3 xs:w-2/3 justify-center mt-60 mx-auto leading-relaxed space-y-3"
+		class="flex flex-col lg:w-1/3 sm:w-2/3 xs:w-4/5 justify-center m-auto leading-relaxed space-y-3"
 	>
 		<slot />
 		<Social />

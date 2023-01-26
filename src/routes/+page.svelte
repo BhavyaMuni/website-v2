@@ -3,6 +3,12 @@
 	import Social from '../lib/Social.svelte';
 </script>
 
+<svelte:head>
+	<meta
+		name="description"
+		content="A little sneak peek into Bhavya's world, that look's at his projects and interests."
+	/>
+</svelte:head>
 <div class="flex flex-row justify-between items-center">
 	<h1 class="font-semibold text-3xl">Hey, there 👋🏼</h1>
 	<!-- <img src="bitmoji.png" class="w-1/5 h-auto" alt="bitmoji" /> -->
