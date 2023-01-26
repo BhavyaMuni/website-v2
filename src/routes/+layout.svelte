@@ -17,7 +17,7 @@
 	>
 		<slot />
 	</div>
-	<Social class="lg:w-1/3 sm:w-2/3 xs:w-4/5" />
+	<Social />
 	<div class="h-10" />
 	<Footer />
 </div>
