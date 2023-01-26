@@ -8,20 +8,36 @@
 </svelte:head>
 
 <div class="flex flex-row justify-start items-center">
-	<a href="/"><i class="fas fa-chevron-left" /></a>
+	<a href="/" aria-label="Home"><i class="fas fa-chevron-left" /></a>
 	<div class="w-2" />
 	<h1 class="font-semibold text-3xl">Projects 👾</h1>
 	<!-- <img src="bitmoji.png" class="w-1/5 h-auto" alt="bitmoji" /> -->
 </div>
 <p />
-<h3 class="font-semibold">Game Dev</h3>
+<h1 class="font-semibold">Game Dev</h1>
 <ul class="list-disc list-inside">
-	<li>Lit</li>
-	<li>Bass Racer</li>
-	<li>Reinos</li>
-	<li>Welcome to the Sh*tshow</li>
+	<li>
+		<a href="https://sketchu.itch.io/lit">Lit</a>
+		<p class="font-light italic text-gray-600 text-sm whitespace-nowrap">(won first place 🏆)</p>
+	</li>
+	<li>
+		<a href="https://bhavyamuni.itch.io/bass-racer">Bass Racer</a>
+		<p class="font-light italic text-gray-600 text-sm whitespace-nowrap">
+			(guitar hero + racing car)
+		</p>
+	</li>
+	<li>
+		<a href="https://bhavyamuni.itch.io/reinos">Reinos</a>
+		<p class="font-light italic text-gray-600 text-sm whitespace-nowrap">
+			(made this one completely by myself)
+		</p>
+	</li>
+	<li>
+		<a href="https://xerahim.itch.io/welcome-to-the-shitshow">Welcome to the Sh*tshow</a>
+		<p class="font-light italic text-gray-600 text-sm whitespace-nowrap">(made it in 10 hours)</p>
+	</li>
 </ul>
-<h3 class="font-semibold">ML stuff</h3>
+<h1 class="font-semibold">ML stuff</h1>
 <ul class="list-disc list-inside">
 	<li>
 		<a href="https://github.com/BhavyaMuni/ChromeDinoNeuroevolution">
@@ -44,7 +60,7 @@
 		</p>
 	</li>
 </ul>
-<h3 class="font-semibold">Misc.</h3>
+<h1 class="font-semibold">Misc.</h1>
 <ul class="list-disc list-inside">
 	<li>
 		<a href="https://github.com/BhavyaMuni/schedule-to-cal">Schedule To Calendar</a>
