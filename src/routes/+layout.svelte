@@ -16,7 +16,8 @@
 		class="flex flex-col lg:w-1/3 sm:w-2/3 xs:w-4/5 justify-center m-auto leading-relaxed space-y-3"
 	>
 		<slot />
-		<Social />
 	</div>
+	<Social />
+	<div class="h-10" />
 	<Footer />
 </div>
