@@ -8,6 +8,12 @@
 	import '@fontsource/inter/700.css';
 	import '@fontsource/inter/800.css';
 	import Footer from '$lib/Footer.svelte';
+
+	import { dev } from '$app/environment';
+	import { inject } from '@vercel/analytics';
+
+	inject({ mode: dev ? 'development' : 'production' });
+
 	import Social from '$lib/Social.svelte';
 </script>
 
