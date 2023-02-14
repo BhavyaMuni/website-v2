@@ -4,7 +4,8 @@
 </script>
 
 <svelte:head>
-	<title>Check out my projects - Bhavya Muni</title>
+	<title>Check out my projects!</title>
+	<meta name="title" content="Check out my projects projects - Bhavya Muni" />
 	<meta name="description" content="Check out all the projects that Bhavya Muni has created!" />
 </svelte:head>
 

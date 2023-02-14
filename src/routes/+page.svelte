@@ -4,9 +4,11 @@
 </script>
 
 <svelte:head>
+	<title>Hey there!</title>
+	<meta name="title" content="A little sneak peek into my world - Bhavya Muni" />
 	<meta
 		name="description"
-		content="A little sneak peek into Bhavya's world. His personal website that look's at his projects and interests."
+		content="Come take a little sneak peek into my world. Check out some of my projects and the things I enjoy."
 	/>
 </svelte:head>
 <div class="flex flex-row justify-between items-center">
