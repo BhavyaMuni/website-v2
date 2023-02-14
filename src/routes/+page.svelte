@@ -6,7 +6,7 @@
 <svelte:head>
 	<meta
 		name="description"
-		content="A little sneak peek into Bhavya's world, that look's at his projects and interests."
+		content="A little sneak peek into Bhavya's world. His personal website that look's at his projects and interests."
 	/>
 </svelte:head>
 <div class="flex flex-row justify-between items-center">

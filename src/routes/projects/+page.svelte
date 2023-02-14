@@ -4,7 +4,8 @@
 </script>
 
 <svelte:head>
-	<meta name="description" content="A list of all the projects that Bhavya Muni was a part of." />
+	<title>Check out my projects - Bhavya Muni</title>
+	<meta name="description" content="Check out all the projects that Bhavya Muni has created!" />
 </svelte:head>
 
 <div class="flex flex-row justify-start items-center">
