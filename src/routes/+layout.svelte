@@ -10,12 +10,12 @@
 	import Footer from '$lib/Footer.svelte';
 	import Social from '$lib/Social.svelte';
 
-	import { dev } from '$app/environment';
-	import { inject } from '@vercel/analytics';
-	inject({ mode: dev ? 'development' : 'production' });
+	// import { dev } from '$app/environment';
+	// import { inject } from '@vercel/analytics';
+	// inject({ mode: dev ? 'development' : 'production' });
 </script>
 
-<div class="flex flex-col h-screen justify-between">
+<div class="flex flex-col h-screen justify-between ">
 	<div
 		class="flex flex-col lg:w-1/3 sm:w-2/3 xs:w-4/5 justify-center m-auto py-12 leading-relaxed space-y-3"
 	>

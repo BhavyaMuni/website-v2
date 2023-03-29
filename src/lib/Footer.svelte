@@ -11,7 +11,7 @@
 <div class="flex flex-col items-center">
 	<p class="opacity-40 text-xs py-2">made with lots of ☕️</p>
 	<div
-		class="h-2 move-gradient bg-gradient-to-r from-orange-400 via-blue-500 to-orange-400 w-full"
+		class="h-2 w-full move-gradient bg-gradient-to-r from-red-400 via-gray-300 to-blue-500"
 		style="--mx: {$mx}%"
 	/>
 </div>
