@@ -1,6 +1,6 @@
 <script>
 	import { spring } from 'svelte/motion';
-	let innerWidth = 10;
+	let innerWidth;
 	let mx = spring(0, { stiffness: 0.03, damping: 0.9 });
 	function handleMousemove(event) {
 		mx.set((event.clientX / innerWidth) * 100, { duration: 50 });
