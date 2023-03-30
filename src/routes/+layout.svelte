@@ -11,9 +11,9 @@
 	import Social from '$lib/Social.svelte';
 	import { spring } from 'svelte/motion';
 
-	// import { dev } from '$app/environment';
-	// import { inject } from '@vercel/analytics';
-	// inject({ mode: dev ? 'development' : 'production' });
+	import { dev } from '$app/environment';
+	import { inject } from '@vercel/analytics';
+	inject({ mode: dev ? 'development' : 'production' });
 	let mx = spring(0, { stiffness: 0.1, damping: 0.95 });
 	let my = spring(0, { stiffness: 0.1, damping: 0.95 });
 	function handleMousemove(event) {
@@ -41,7 +41,7 @@
 
 <style>
 	.bg-grad {
-		background: radial-gradient(circle at var(--mx) top, white 70%, transparent 125%),
+		background: radial-gradient(circle at var(--mx) var(--my), white 70%, transparent 125%),
 			linear-gradient(to right, rgb(253, 186, 116), rgb(253, 164, 175));
 	}
 </style>
