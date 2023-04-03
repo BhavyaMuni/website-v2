@@ -17,3 +17,21 @@ a {
 p {
 	@apply font-light;
 }
+
+@layer components {
+	/* Path: src/components/MyComponent.css */
+	.bg-grad {
+		background: radial-gradient(
+				circle at var(--mx) var(--my),
+				rgb(241, 245, 249) 70%,
+				transparent 125%
+			),
+			linear-gradient(to right, rgb(253, 186, 116), rgb(253, 164, 175));
+	}
+
+	.bg-grad-dark {
+		background: radial-gradient(circle at var(--mx) var(--my), #191919 70%, transparent 150%),
+			linear-gradient(to right, #919bff, #133a94);
+		/* linear-gradient(to right, rgb(187, 247, 208), rgb(134, 239, 172), rgb(59, 130, 246)); */
+	}
+}
