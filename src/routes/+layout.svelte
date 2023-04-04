@@ -11,9 +11,9 @@
 	import Social from '$lib/Social.svelte';
 	import { spring } from 'svelte/motion';
 
-	// import { dev } from '$app/environment';
-	// import { inject } from '@vercel/analytics';
-	// inject({ mode: dev ? 'development' : 'production' });
+	import { dev } from '$app/environment';
+	import { inject } from '@vercel/analytics';
+	inject({ mode: dev ? 'development' : 'production' });
 	let innerWidth;
 	let innerHeight;
 	let mx = spring(0, { stiffness: 0.1, damping: 0.95 });
