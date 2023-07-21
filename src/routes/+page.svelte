@@ -12,7 +12,7 @@
 	/>
 </svelte:head>
 <div class="flex flex-row justify-between items-center">
-	<h1 class="font-semibold text-3xl">Hey, there 👋🏼</h1>
+	<h1 class="font-semibold text-3xl">Hey, there <span class="inline-block hover:animate-wiggle">👋🏼</span></h1>
 	<!-- <img src="bitmoji.png" class="w-1/5 h-auto" alt="bitmoji" /> -->
 </div>
 <p />

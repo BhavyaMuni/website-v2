@@ -6,14 +6,16 @@ module.exports = {
 	theme: {
 		extend: {
 			keyframes: {
-				gradient: {
-					'0%': { 'background-position': '0% 50%' },
-					'50%': { 'background-position': '100% 50%' },
-					'100%': { 'background-position': '0% 50%' }
+				wiggle: {
+					'10%': { transform: 'rotate(-15deg)' },
+                    '40%': { transform: 'rotate(15deg)'},
+                    '50%': { transform: 'rotate(0deg)'},
+                    '60%': { transform: 'rotate(15deg)' },
+                    '90%': { transform: 'rotate(-15deg)' },
 				}
 			},
 			animation: {
-				'move-gradient': 'gradient 10s ease infinite'
+				wiggle: 'wiggle 0.8s cubic-bezier(0.770, 0.000, 0.175, 1.000)'
 			}
 		},
 		fontFamily: {
