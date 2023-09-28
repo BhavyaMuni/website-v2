@@ -53,18 +53,18 @@
 
 <svelte:window on:mousemove={handleMousemove} bind:innerWidth bind:innerHeight />
 <div
-	class="flex flex-col h-screen justify-between bg-grad dark:bg-grad-dark items-center dark:text-white "
+	class="flex flex-col min-h-screen justify-center bg-grad dark:bg-grad-dark dark:text-white"
 	style="--mx: {$mx}px; --my: {$my}px;"
 >
 	<div
-		class="flex flex-col lg:w-1/3 sm:w-2/3 xs:w-4/5 justify-center m-auto py-12 leading-relaxed space-y-3"
+		class="flex flex-col w-4/5 md:max-w-2xl justify-center m-auto py-12 leading-relaxed space-y-3"
 	>
 		<slot />
 	</div>
 	<Social />
-	<div class="opacity-60 flex flex-col sm:self-stretch sm:flex-row">
-		<p class="text-xs py-4 sm:ml-auto">made with lots of ☕️</p>
-		<button on:click={handleSwitchDarkMode} class="sm:ml-auto sm:mr-4">
+	<div class="opacity-60 flex flex-row justify-between md:justify-center">
+		<p class="text-xs py-4 ml-auto">made with lots of ☕️</p>
+		<button on:click={handleSwitchDarkMode} class="ml-auto mr-12">
 			{#if darkMode}
 				<i class="far fa-sun" />
 			{:else}
