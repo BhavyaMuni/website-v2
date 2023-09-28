@@ -18,14 +18,9 @@ p {
 	@apply font-light;
 }
 
-html{
-    overflow: hidden;
-}
-
 @layer components {
 	/* Path: src/components/MyComponent.css */
 	.bg-grad {
-        overflow: auto;
 		background: radial-gradient(
 				circle at var(--mx) var(--my),
 				rgb(241, 245, 249) 70%,
