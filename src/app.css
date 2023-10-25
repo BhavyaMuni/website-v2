@@ -6,16 +6,12 @@ strong {
 	@apply font-medium;
 }
 
-ul a {
-	@apply font-normal;
-}
-
 a {
 	@apply underline font-medium underline-offset-2;
 	/* @apply hover:text-transparent hover:bg-clip-text hover:bg-gradient-to-tr hover:from-orange-400 hover:to-blue-500; */
 }
 p {
-	@apply font-light;
+	@apply font-normal;
 }
 
 @layer components {
